@@ -6,6 +6,7 @@
   debug:
     msg: "HI, I am from common role MSG-2"
 
+
 - name: common role msg-3
   debug:
     msg: "HI, I am from common role MSG-3"
